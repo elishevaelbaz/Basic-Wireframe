@@ -7,10 +7,8 @@ body {
 	font-size: 18px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	background-color: #777;
-
 	width: 960px;
 	margin-left: 130px;
-
 }
 
 .content{
@@ -31,8 +29,6 @@ header, nav, footer{
 	margin-left: 10px;
 	margin-bottom: 20px;
 }
-
-
 
 #section {
 	clear:both;
@@ -72,14 +68,6 @@ header, nav, footer{
 	
 }
 
-
-	/**/
-	/*clear:both;*/
-	/*overflow: auto;*/
-
-
-
 .clear {
 	clear:both;
-	/*margin-top:10px;*/
 }
