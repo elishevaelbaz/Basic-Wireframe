@@ -23,7 +23,7 @@ header, nav, footer{
 
 #aside {
 	float: right;
-	width:440px;
+	width:445px;
 	height:280px;
 	padding: 40px;
 	margin-left: 10px;
@@ -33,7 +33,6 @@ header, nav, footer{
 #section {
 	clear:both;
 	overflow:auto;
-	/*margin-top: 15px;*/
 	width: 495px;
 	padding: 30px 20px 10px 10px;
 	float:left
@@ -43,7 +42,6 @@ header, nav, footer{
 	clear:both;
 	overflow:auto;
 	margin-top: 25px;
-
 	width: 475px;
 	padding: 20px;
 	background-color: #777;
