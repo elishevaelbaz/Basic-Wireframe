@@ -21,7 +21,7 @@ header, nav, footer{
   margin-bottom: 20px;
 }
 
-#aside {
+aside {
 	float: right;
 	width:445px;
 	height:280px;
@@ -30,7 +30,7 @@ header, nav, footer{
 	margin-bottom: 20px;
 }
 
-#section {
+section {
 	clear:both;
 	overflow:auto;
 	width: 495px;
@@ -38,7 +38,7 @@ header, nav, footer{
 	float:left
 }
 
-#article{
+article{
 	clear:both;
 	overflow:auto;
 	margin-top: 25px;
